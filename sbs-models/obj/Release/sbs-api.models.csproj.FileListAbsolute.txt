@@ -1,0 +1,6 @@
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-models\bin\Release\sbs-api.models.dll
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-models\bin\Release\sbs-api.models.pdb
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-models\obj\Release\sbs-api.models.csproj.CoreCompileInputs.cache
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-models\obj\Release\sbs-api.models.dll
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-models\obj\Release\sbs-api.models.pdb
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-models\obj\Release\sbs-api.models.csprojAssemblyReference.cache

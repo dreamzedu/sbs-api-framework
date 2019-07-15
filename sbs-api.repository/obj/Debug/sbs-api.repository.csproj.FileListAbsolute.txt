@@ -1,0 +1,11 @@
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\obj\Debug\sbs-api.repository.csprojAssemblyReference.cache
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\obj\Debug\sbs-api.repository.csproj.CoreCompileInputs.cache
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\bin\Debug\sbs-api.repository.dll.config
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\bin\Debug\sbs-api.repository.dll
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\bin\Debug\sbs-api.repository.pdb
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\bin\Debug\MySql.Data.dll
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\bin\Debug\sbs-api.models.dll
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\bin\Debug\sbs-api.models.pdb
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\obj\Debug\sbs-api.repository.csproj.CopyComplete
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\obj\Debug\sbs-api.repository.dll
+C:\Users\manoj_dwivedi\source\repos\sbs-api-framework\sbs-api.repository\obj\Debug\sbs-api.repository.pdb

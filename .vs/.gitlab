@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 1357,
+    "Username": "Manoj_Dwivedi",
+    "Name": "Dwivedi, Manoj",
+    "Email": "manoj_dwivedi@dell.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/64b5798ac0c283ac0456b1f23ef8252c?s=80&d=identicon",
+    "PrivateToken": "1b60a273cbee88ec5686b3d1c28bcb75c5e3e6ccc99d86f517770aed7c9b2abe",
+    "Host": "https://gitlab.dell.com/",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

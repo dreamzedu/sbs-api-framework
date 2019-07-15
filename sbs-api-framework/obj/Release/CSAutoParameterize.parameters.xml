@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Sbs_MySql_Connection_Local-Web.config Connection String" description="Sbs_MySql_Connection_Local Connection String used in web.config by the application to access the database." defaultValue="server=localhost;Port=3306;Database=sbsdb;Uid=root;Pwd=Ajanabi07" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\manoj_dwivedi\\source\\repos\\sbs-api-framework\\sbs-api-framework\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Sbs_MySql_Connection_Local']/@connectionString" />
+  </parameter>
+  <parameter name="Sbs_MySql_Connection-Web.config Connection String" description="Sbs_MySql_Connection Connection String used in web.config by the application to access the database." defaultValue="server=103.235.105.60;Port=3306;Database=sbsdb;Uid=coolmanu07;Pwd=Ajanabi@007" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\manoj_dwivedi\\source\\repos\\sbs-api-framework\\sbs-api-framework\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Sbs_MySql_Connection']/@connectionString" />
+  </parameter>
+</parameters>
